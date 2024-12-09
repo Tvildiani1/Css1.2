@@ -1,0 +1,171 @@
+h1 {
+    color: #000000;
+    font-size: 72px;
+    width: 1350px;
+    height: 86px;
+    padding: 0px;
+    margin: 0 auto;
+}
+#Frame1 {
+    width: 568px;
+    height: 866px;
+    margin-top: 37px;
+    margin-bottom: 74px;
+    margin-left: 55px;
+}
+#image1 {
+    width: 568px;
+    height: 448px;
+    margin-bottom: 12px;
+}
+#starynight {
+    color: #000000;
+    font-size: 40px;
+    width: 568px;
+    padding: 0px;
+    text-align: center;
+    margin-top: 12px;
+}
+#lookup {
+    color: #414651;
+    font-size: 20px;
+    padding: 0px;
+    text-align: center;
+    margin: 0px;
+    
+}
+#Immerseyourself {
+    color: #155eef;
+    font-size: 16px;
+    padding: 0px;
+    margin-bottom: 32px;
+    width: 568px;
+    text-align: left;
+
+}
+#Readmore {
+    color: #cea201;
+    font-size: 24px;
+    border: 2px solid #CEA201;
+    padding: 12px 32px;
+    margin: 0px;
+    width: 113px;
+}
+#Frame2 {
+    width: 722px;
+    height: 1156px;
+    margin-top: 74px;
+    margin-left: 55px;
+}
+#Themagic {
+    color: #000000;
+    font-size: 40px;
+    width: 800px;
+    padding: 0px;
+    margin: 0 auto; 
+}
+#Didyouknow {
+    color: #414651;
+    font-size: 20px;
+    padding: 0px;
+    margin-top: 16px;
+    text-align: center;
+}
+
+#Hereshow {
+    color: #00c76e;
+    font-size: 20px;
+    text-align: center;
+    padding: 0px;
+    margin-top: 24px;
+}
+#list1 {
+    color: #ff5da3;
+    font-size: 16px;
+    margin: 0 auto;
+    padding: 0px;
+    width: 450px;
+
+}
+#image2 {
+    width: 200px;
+    height: 200px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+#fish {
+    background-color: #ffdef0;
+    border: 6px solid #c11574;
+    padding: 16px;
+    width: 722px;
+    height: 160px;
+    margin: 0px;
+    
+}
+#wheresee {
+    color: #414651;
+    font-size: 24px;  
+    padding: 16px;
+    margin: 0px;
+}
+
+#list2 {
+    list-style: none;
+}
+
+#Firefliesli {
+    width: 16px;
+    height: 16px;
+    border-radius: 90px;
+    background-color: #000000;
+}
+#Fireflies {
+    color: #c27512;
+    font-size: 16px;
+    width: 407px;
+    margin-left: 50px;
+    padding: 0px;
+}
+#deep-seali {
+    width: 16px;
+    height: 16px;
+    border-radius: 90px;
+    background-color: #000000;
+}
+#deep-sea {
+    color: #c27512;
+    font-size: 16px;
+    width: 407px;
+    margin-left: 50px;
+    padding: 0px;
+}
+#Fungili {
+    width: 16px;
+    height: 16px;
+    border-radius: 90px;
+    background-color: #000000;
+}
+#Fungi {
+    color: #c27512;
+    font-size: 16px;
+    width: 467px;
+    height: 24px;
+    margin-left: 50px;
+    padding: 0px;
+    
+}
+#image3 {
+    width: 298.012px;
+    height: 396px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+#morelink {
+    color: #00d4bc;
+    font-size: 24px;
+    width: 722px;
+    height: 32px;
+    padding: 0px;
+    margin: 0px;
+    text-align: right;
+}
